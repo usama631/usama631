@@ -14,7 +14,7 @@
       ✮ API development
       ✮ Admin panel development
 
-- 💞️ I’m looking to collaborate on MERN/MEAN/MEVN Projects
+- 💞️ I’m open to collaborate on MERN/MEAN/MEVN Projects
 - 📫 How to reach me :usamaabdulkhaliq631@gmail.com
 
 <!---
