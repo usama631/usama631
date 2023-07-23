@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @usama631
+- 👋 Hi, I’m Muhammad Usama
 - 👀 I’m interested in full stack web developer and ethical hacking
 - 🌱 I’'ve expertise in :
       ✮ React JS
