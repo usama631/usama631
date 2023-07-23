@@ -1,7 +1,20 @@
 - 👋 Hi, I’m @usama631
 - 👀 I’m interested in full stack web developer and ethical hacking
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on MERN Projects
+- 🌱 I’'ve expertise in :
+      ✮ React JS
+      ✮ Figma to ReactJS
+      ✮ Node JS
+      ✮ Express JS
+      ✮ MongoDB & MongoDB Atlas
+      ✮ Rest APIs
+      ✮ State Management with Redux
+      ✮ Material UI
+      ✮ Bootstrap & React Bootstrap
+      ✮ Figma to HTML5 & CSS3
+      ✮ API development
+      ✮ Admin panel development
+
+- 💞️ I’m looking to collaborate on MERN/MEAN/MEVN Projects
 - 📫 How to reach me :usamaabdulkhaliq631@gmail.com
 
 <!---
